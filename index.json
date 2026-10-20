@@ -1,0 +1,11 @@
+{
+  "org": "klen",
+  "repo": "pytest-redislite",
+  "versions": [
+    {
+      "commit": "41885984231f989137c1f72f39eb50cd6132fdf9",
+      "tag": "0.2.2",
+      "parsed_at": "2026-10-20T21:32:41.724138+00:00"
+    }
+  ]
+}
