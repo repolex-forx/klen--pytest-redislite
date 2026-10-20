@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/klen/pytest-redislite/commit/41885984231f989137c1f72f39eb50cd6132fdf9",
       "git:hexsha": "41885984231f989137c1f72f39eb50cd6132fdf9",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.2.2"
     },
     {
