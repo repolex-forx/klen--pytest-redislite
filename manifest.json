@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "klen",
+  "repo": "pytest-redislite",
+  "versions": [
+    {
+      "commit": "41885984231f989137c1f72f39eb50cd6132fdf9",
+      "parsed_at": "2026-10-20T21:30:08.294704+00:00",
+      "tag": "0.2.2",
+      "filetree": "filetree/41885984231f989137c1f72f39eb50cd6132fdf9.nq.gz",
+      "blobs": [
+        "blob/65cd23ccd489b059472333d654b8029856fd8bc9.nq.gz",
+        "blob/d063574d7f82f53b73cccb989fc0dc1b523251e9.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/f9e571075dbb245ba53f16b92417d0b114862b99.nq.gz",
+        "blob/8cec47bab7a317f8b6d8ea464f30b59f782fbd14.nq.gz",
+        "blob/04793fcc5d6bb125a804cc9e475f0e6adee87558.nq.gz",
+        "blob/ca434b77fcfa19b6b8e8dbfc2fff2dc90c9f7cba.nq.gz",
+        "blob/8f9ba978b63e3c658a8e7d748d0fc37c5d1296be.nq.gz",
+        "blob/eba8fc9f95ed477e4496169499769f4106e70f5c.nq.gz",
+        "blob/e5d11aa557ed05d0bd9cde644c007570eef0ffac.nq.gz",
+        "blob/e4bce2447ba72edd22869c7b3a61acd1a398dc3b.nq.gz",
+        "blob/6c8fb2aa53856018854a8952e25e28a72aa55192.nq.gz",
+        "blob/d5c6f1f71f070f5fc901e85f3ef072199ee741f7.nq.gz",
+        "blob/bb9a2d8dcfb7bcae9511c3adebf087aca48d693f.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
